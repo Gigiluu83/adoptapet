@@ -1,3 +1,96 @@
+@media screen and (min-width: 320px){
+    .benefits{
+        float: none;
+    }
+    .testimonials{
+        float: none;
+        padding-left: 50px;
+        width: 100%;
+    }
+    .events{
+        float: none;
+        padding-left: 50px;
+    }
+    .main-image{
+        display: none;
+    }
+    .col1{
+        float: none;
+        width: 90%;
+    }
+    .col2{
+        float: none;
+        width: 90%;
+    }
+    .col3{
+        float: none;
+        width: 90%;
+    }
+    .col4{
+        float: none;
+        width: 90%;
+    }
+    .col5{
+        float: none;
+        width: 90%;
+    }
+    button {
+        background-color: red;
+        padding-top: 10%;
+        width: 30%;
+        font-style: oblique;
+    }
+}
+
+
+
+@media screen and (min-width: 360px){
+    .benefits{
+        float: none;
+    }
+    .testimonials{
+        float: none;
+        padding-left: 50px;
+        width: 100%;
+    }
+    .events{
+        float: none;
+        padding-left: 50px;
+    }
+    .main-image{
+        display: none;
+    }
+    .col1{
+        float: none;
+        width: 90%;
+    }
+    .col2{
+        float: none;
+        width: 90%;
+    }
+    .col3{
+        float: none;
+        width: 90%;
+    }
+    .col4{
+        float: none;
+        width: 90%;
+    }
+    .col5{
+        float: none;
+        width: 90%;
+    }
+    button {
+        background-color: red;
+        padding-top: 10%;
+        width: 30%;
+        font-style: oblique;
+    }
+}
+
+
+
+
 @media screen and (min-width: 480px){
     .benefits{
         float: none;
@@ -64,30 +157,74 @@
         padding-top: 2%;
         color: red;
         border: 3px solid darkred;   
-        width: 30%;
+        width: 20%;
         float: left;
         height: 50%;
     }
     .col2{
         float: left;
-        width: 33%;
+        width: 20%;
     }
 
     .col3{
         float: left;
-        width: 33%;
+        width: 20%;
     }
 
     .col4{
         float:left;
-        width: 33%;
+        width: 20%;
     }
 
     .col5{
         float: left;
-        width: 33%;
+        width: 20%;
     }
     button{
         width: 50%;
+    }
+}
+
+
+@media screen and (min-width: 768px){
+    .benefits{
+        float: left;
+    }
+    .testimonials{
+        float: left;
+        padding-left: 50px;
+    }
+    .events{
+        float: left;
+        padding-left: 50px;
+    }
+    .main-image{
+        float: left;
+    }
+    .col1{
+        float: left;
+        width: 20%;
+    }
+    .col2{
+        float: left;
+        width: 20%;
+    }
+    .col3{
+        float: left;
+        width: 20%;
+    }
+    .col4{
+        float: left;
+        width: 20%;
+    }
+    .col5{
+        float: left;
+        width: 20%;
+    }
+    button {
+        background-color: red;
+        padding-top: 10%;
+        width: 50%;
+        font-style: oblique;
     }
 }
