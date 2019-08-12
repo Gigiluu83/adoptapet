@@ -1,0 +1,211 @@
+
+/******ELEMENTS*******/
+body {
+    background-color: lightgray;
+}
+
+button {
+    background-color: red;
+    width: 100%;
+}
+h3{
+    color: darkgray;
+    font-size: 40px;
+}
+
+h4{
+    color: darkgray;
+    font-size: 30px;
+    text-decoration: blink;
+}
+
+footer{
+	text-align: center;
+    font-size: 0.75em;
+    padding-top: 50px;
+    background-color: darkgray;
+    color: #ccc;
+    clear: both;
+}
+
+table{
+    float: right;
+    font-style: italic;
+    text-align: right;
+    width: 275px;
+    font-size: 100%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20%;
+}
+
+h6 {
+    color: red;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+
+/********CLASSES*******/
+
+.main-image{
+    padding-top: 20%;
+    width: 20%;
+    float: left;
+    padding-left: 2%;
+    padding-bottom: 5%;    
+}
+
+.clear{
+    clear: left;
+}
+
+.benefits {
+    float: left;
+    padding-left: 50px;
+
+}
+.container{
+    padding-top: 20%;
+    text-align: left;
+    width: 60%;
+}
+
+.main-header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-image: url(/img/banner-bg.jpg);
+    position: fixed;
+
+}
+
+.divider{
+    padding-top: 20%;
+    width: 100%;
+    height: 5px;
+}
+
+.testimonials {
+    font-family: cursive;
+    float: left;
+    width: 30%;
+}
+
+.events{
+    float: left;
+    padding-left: 20px;
+}
+
+/*******
+.main-paragraph{
+    color: blue;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-style: italic;
+    float: right;
+}
+********/
+
+.align{
+    align-items: center;
+}
+
+
+.main-nav{
+    display: inline-block;
+    font-style: italic;
+    font-size: 30px;
+    background-color: gray; 
+    width: 100%;
+    word-spacing: 10px;
+}
+
+.logo{
+    width: 5%;
+    border-radius: 50% 50% 50% 50%;
+    animation: 'slide' 2.5s linear 0 1 normal;
+}
+
+/*********Links**********/
+
+a:link{
+    color: #ff9900;
+}
+
+a:visited{
+    color: red;
+}
+
+/********Pets' Page Stylings***********/
+
+
+#pets{
+    width: 90%;
+    border: 3px solid darkred;
+}
+
+.col1{
+    padding-left: 50px;
+    padding-top: 2%;
+    color: red;
+    border: 3px solid darkred;   
+    width: 20%;
+    float: left;
+    height: 50%;
+}
+
+
+.col2{
+    padding-left: 50px;
+    padding-top: 2%;
+    color: red;
+    border: 3px solid darkred;   
+    width: 20%;
+    float: left;
+    height: 50%;
+}
+.col3{
+    padding-left: 50px;
+    padding-top: 2%;
+    color: red;
+    border: 3px solid darkred;   
+    width: 20%;
+    float: left;
+    height: 50%;
+}
+.col4{
+    padding-left: 50px;
+    padding-top: 2%;
+    color: red;
+    border: 3px solid darkred;   
+    width: 20%;
+    float: left;
+    height: 50%;
+}
+
+.col5{
+    padding-left: 50px;
+    padding-top: 2%;
+    color: red;
+    border: 3px solid darkred;   
+    width: 20%;
+    float: left;
+    height: 50%;
+}
+
+/******
+#musky {
+    width: 90%;
+    border: 3px solid darkred;
+}
+
+.col2{
+    padding-left: 50px;
+    padding-top: 15%;
+    padding-bottom: 0%;
+    color: red;
+    border: 3px solid darkred;   
+    width: 20%;
+    float: left;
+    align-self: stretch;
+}

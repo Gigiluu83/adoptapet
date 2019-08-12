@@ -1,0 +1,93 @@
+@media screen and (min-width: 480px){
+    .benefits{
+        float: none;
+    }
+    .testimonials{
+        float: none;
+        padding-left: 50px;
+        width: 100%;
+    }
+    .events{
+        float: none;
+        padding-left: 50px;
+    }
+    .main-image{
+        display: none;
+    }
+    .col1{
+        float: none;
+        width: 90%;
+    }
+    .col2{
+        float: none;
+        width: 90%;
+    }
+    .col3{
+        float: none;
+        width: 90%;
+    }
+    .col4{
+        float: none;
+        width: 90%;
+    }
+    .col5{
+        float: none;
+        width: 90%;
+    }
+    button {
+        background-color: red;
+        padding-top: 10%;
+        width: 30%;
+        font-style: oblique;
+    }
+}
+
+@media screen and (min-width: 660px){
+    .benefits{
+        float: left;
+        width: 33%;
+    }
+    .testimonials{
+        float: left;
+        width: 33%;
+    }
+    .events{
+        float: left;
+        width: 33%;
+    }
+    .main-image{
+        display: block;
+        width: 20%;
+    }
+    .col1{
+        padding-left: 50px;
+        padding-top: 2%;
+        color: red;
+        border: 3px solid darkred;   
+        width: 30%;
+        float: left;
+        height: 50%;
+    }
+    .col2{
+        float: left;
+        width: 33%;
+    }
+
+    .col3{
+        float: left;
+        width: 33%;
+    }
+
+    .col4{
+        float:left;
+        width: 33%;
+    }
+
+    .col5{
+        float: left;
+        width: 33%;
+    }
+    button{
+        width: 50%;
+    }
+}
