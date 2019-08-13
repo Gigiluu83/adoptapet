@@ -40,8 +40,13 @@
         width: 30%;
         font-style: oblique;
     }
-}
+    .container{
+        padding-top: 40%;
+        text-align: left;
+        width: 60%;
+    }
 
+}
 
 
 @media screen and (min-width: 360px){
@@ -85,6 +90,12 @@
         padding-top: 10%;
         width: 30%;
         font-style: oblique;
+    }
+
+    .container{
+        padding-top: 40%;
+        text-align: left;
+        width: 60%;
     }
 }
 
@@ -132,6 +143,12 @@
         padding-top: 10%;
         width: 30%;
         font-style: oblique;
+    }
+
+    .container{
+        padding-top: 30%;
+        text-align: left;
+        width: 60%;
     }
 }
 
