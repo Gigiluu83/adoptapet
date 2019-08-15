@@ -1,3 +1,5 @@
+/*****Objects Array******/
+
 var data = [ 
     {
         name: "Billy-B",
@@ -46,10 +48,10 @@ var data = [
     }
 ];
 
-
+/******Add Vars to Profile Page********/
 
        console.log(data);
-function outputData(dataObj){
+        function outputData(dataObj){
        $.each( dataObj, function( key, value ) {
          let $html = "";
           $html = `
