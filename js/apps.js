@@ -1,12 +1,12 @@
 /********Hide and Show Buttons******/
 /********First Picture********/
 
-$("#hide1").click(function(){
-    $(".hide1").hide();
+$("#hide").click(function(){
+    $(".hide").hide();
   });
   
-  $("#show1").click(function(){
-    $(".hide1").show();
+  $("#show").click(function(){
+    $(".hide").show();
   });
 
   /********Hide and Show Buttons******/

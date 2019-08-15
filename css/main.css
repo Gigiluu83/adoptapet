@@ -75,7 +75,7 @@ h6 {
     text-align: center;
     background-color: lightslategray;
     position: fixed;
-
+    top: 0;
 }
 
 .divider{
